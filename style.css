@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-
 body {
-  background-color: lilac;
-
+  background-color: rgb(201, 233, 241);
 }
 
 th {
-  color: rgb(127, 30, 172);
+  color: rgb(17, 133, 133);
   text-align: center;
 }
 
@@ -17,12 +11,3 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-</style>
-</head>
-<body>
-
-<h1>My First CSS Example</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
