@@ -11,3 +11,8 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+h2 {
+  color: rgb(138, 0, 192);
+  text-align: center;
+}
