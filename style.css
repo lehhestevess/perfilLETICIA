@@ -1,11 +1,14 @@
-
 body {
-  background-color: rgb(234, 219, 241);
+  background-color: lightblue;
 }
 
 th {
-  color:#7b00ff
+  color: rgb(163, 54, 190);
   text-align: center;
 }
 
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
 
