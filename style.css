@@ -1,6 +1,6 @@
 
 body {
-  background-color: lightblue;
+  background-color: rgb(230, 173, 173);
 }
 
 th {
@@ -12,3 +12,4 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
