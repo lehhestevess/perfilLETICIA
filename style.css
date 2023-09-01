@@ -26,6 +26,11 @@ h2 {
 
 }
 
+
+table {
+  width: 100%;
+}
+
 th {
-  text-align: left;
+  height: 70px;
 }
