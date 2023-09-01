@@ -86,7 +86,7 @@ td{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(38, 8, 51);
+  background-color: rgb(138, 102, 153);
   color: rgb(255, 255, 255);
   text-align: center;
 }
@@ -100,9 +100,5 @@ color b j{
 font-size: small;
 }
 
-
-.f{
-  color:#f0f0f0
-}
 
 
