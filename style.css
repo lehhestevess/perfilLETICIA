@@ -63,7 +63,8 @@ td{
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #000000;
+  background-color:rgb(242, 224, 250);
+}
   color: white;
   text-align: center;
 }
