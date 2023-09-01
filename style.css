@@ -57,6 +57,7 @@ td {
 tr{
   background-color: rgb(181, 146, 196);
 }
+
 td{
   background-color: #f0f0f0;
 }
@@ -100,7 +101,9 @@ color b j{
 font-size: small;
 }
 
-
+.rodape{
+  background-color: rgb(255, 255, 255);
+}
 
 
 
