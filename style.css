@@ -81,14 +81,13 @@ td{
 
 
 
-
-footer {
+.footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:  rgb(35, 9, 48);
-  color: rgb(255, 255, 255);
+  background-color: #ff66a8;
+  color: white;
   text-align: center;
 }
 
