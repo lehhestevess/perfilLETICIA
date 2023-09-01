@@ -56,8 +56,16 @@ td{
   background-color: #f0f0f0;
 }
 
+.primeiro {
+  color: rgb(218, 33, 235);
+}
+
 .segundo {
-  color: rgb(82, 11, 112);
+  color: rgb(68, 184, 219);
+}
+
+.teceiro {
+  color: rgb(200, 23, 206);
 }
 
 
