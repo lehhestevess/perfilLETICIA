@@ -103,13 +103,13 @@ font-size: small;
 
 
 
-.p{
+.g{
   width: 220px;
   height: 100px;
   border: 2px solid #841c9e;
   padding: 50px;
   margin: 20px auto;
 }
-.g{
+.p{
   text-align: center;
 }
