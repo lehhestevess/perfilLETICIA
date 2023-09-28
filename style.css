@@ -132,14 +132,14 @@ font-size: small;
 
   .borda_legal {
       width: 100%;
-      padding: 12px 20px;
+      padding: 15px 23px;
       margin: 8px 0;
       box-sizing: border-box;
       border-radius: 4px;
   }
 
   .botão_bonito {
-      background-color: #344347; color: white;
+      background-color: #a375ce; color: white;
       padding: 12px 12px;
       border: none;
       border-radius: 4px;
