@@ -130,48 +130,9 @@ font-size: small;
 
 
 
-td, th {
-  padding: .7em;
-  margin: 0;
-  /*border: 1px solid #ccc;*/
-  text-align: center;
-}
 
-tr{
-  background-color: #660000;
-}
 
-td{
-  background-color: #f0f0f0;
-}
 
-th {
-  color: white;
-}
-
-.bord {
-      width: 320px;
-      padding: 10px;
-      border: 5px solid gray;
-      margin: auto;
-}
-
-.teste {
-  text-align: center;
-}
-
-.bordoutra {
-  width: 320px;
-  padding: 10px;
-  border: 1px solid rgb(189, 185, 185);
-  margin: auto;
-  background-color: white;
-  }
-
-  .borda_redonda {
-  border: 2px solid black;
-  border-radius: 5px;
-  padding: 5px;
   } 
 
   .borda_legal {
