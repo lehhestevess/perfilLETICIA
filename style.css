@@ -168,10 +168,10 @@ h1
   }
 
   header{
-    background-color: gray;
+    background-color: rgb(211, 210, 210);
     color:rgb(255, 255, 255);
     text-align: center;
-    width: 300px;
+    width: 800px;
     border: 1px solid grey;
     padding: 10px;
     margin: auto;
