@@ -180,6 +180,6 @@ h1
   .k6{
     background-color: rgb(41, 38, 38);
     color:rgb(255, 255, 255);
-    width: 200px;
+    width: auto;
     height:auto
   }
