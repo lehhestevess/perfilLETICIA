@@ -116,13 +116,15 @@ font-size: small;
 }
 
 
-.l{
-  width: 300px;
-  height: 400px;
-  border: 1px solid black;
-  padding: 50px;
-  margin: 20px auto;
+.el2{
+  width: 320px;
+  border: 1px solid grey;
+  padding: 10px;
+  margin: auto;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+.btn_submit {background-color: #f778ab;}
 
 
 
