@@ -151,7 +151,7 @@ h1
 
  
   .l{
-    width: 400px;
+    width: 300px;
     border: 1px solid grey;
     padding: 10px;
     margin: auto;
@@ -160,6 +160,7 @@ h1
   
   .btn_submit {background-color: #9071e6;}
 
-  figure{background-color: #000000;
-
+  figure{
+    background-color: #000000;
+    color:white;
   }
