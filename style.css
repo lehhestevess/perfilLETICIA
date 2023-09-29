@@ -168,7 +168,11 @@ h1
   }
 
   header{
-    background-color: #ffffff;
-    color:rgb(168, 168, 168);
+    background-color: #ccbbbb;
+    color:rgb(0, 0, 0);
     text-align: center;
+    width: 300px;
+    border: 1px solid grey;
+    padding: 10px;
+    margin: auto;
   }
