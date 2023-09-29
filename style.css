@@ -137,19 +137,15 @@ h1
       border-radius: 4px;
       text-align: right;
   }
-
   .caixola {
       float: left;
       width: 320px;
       padding: 10px;
       border: 1px solid rgb(136, 79, 189);
-      
       margin-top: 10px;
       margin-bottom: 10px; 
       margin-right: 10px;
   }
-
- 
   .l{
     width: 300px;
     border: 1px solid grey;
@@ -157,7 +153,6 @@ h1
     margin: auto;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
-  
   .btn_submit {background-color: #9071e6;}
 
   figure{
@@ -166,7 +161,6 @@ h1
     text-align: center;
     height:auto
   }
-
   header{
     background-color: rgb(41, 38, 38);
     color:rgb(255, 255, 255);
