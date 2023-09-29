@@ -168,8 +168,8 @@ h1
   }
 
   header{
-    background-color: #ccbbbb;
-    color:rgb(0, 0, 0);
+    background-color: gray;
+    color:rgb(255, 255, 255);
     text-align: center;
     width: 300px;
     border: 1px solid grey;
