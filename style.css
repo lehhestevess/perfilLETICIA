@@ -125,8 +125,7 @@ font-size: small;
       border-radius: 4px;
       text-align: right;
   }
-  .caixola {
-      float: left;
+  .box {
       width: 320px;
       padding: 10px;
       border: 1px solid rgb(136, 79, 189);
@@ -147,7 +146,8 @@ font-size: small;
     background-color: #000000;
     color:white;
     text-align: center;
-    height:auto
+    height: 30px;
+
   }
   header{
     background-color: rgb(41, 38, 38);
@@ -164,6 +164,11 @@ font-size: small;
   .leticia{
     align: right;
   }
+  .recipiente{
+    text-align: center;
+    float: center;
+  }
+
 
 
   
